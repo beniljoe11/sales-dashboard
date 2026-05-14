@@ -97,18 +97,6 @@ Users can interact with the dashboard using slicers and filters for dynamic anal
 
 ---
 
-## Screenshot
-
-Add your dashboard screenshot inside the `screenshots` folder.
-
-Example:
-
-```text
-screenshots/dashboard.png
-```
-
----
-
 ## Why This Project?
 
 This project was created to showcase practical Excel skills used in real-world business reporting and data analysis.
