@@ -112,7 +112,5 @@ Suitable for:
 ## Author
 
 Your Name: Benil Joe P
-
-GitHub: 
-
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/benil-joe-11b7462b1/
+GitHub: github.com/beniljoe11
